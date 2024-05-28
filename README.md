@@ -1,9 +1,9 @@
 Cubrune is a top down shooter game
 
-current features:
-Basic character movement
-EnemySpawn system
-Shooting system
-Enemy gets stronger with game progress
-Upgrade system (Only health and damage currently)
-Basic level manager
+current features: <br />
+Basic character movement <br />
+EnemySpawn system <br />
+Shooting system <br />
+Enemy gets stronger with game progress <br />
+Upgrade system (Only health and damage currently) <br />
+Basic level manager <br />
